@@ -18,4 +18,4 @@ class ArticleTest(unittest.TestCase):
         '''
            This method will test if self.new_article is an object of the article class.
         '''
-        self.assertTrue(isinstance(self.new_article, Articles))
+        self.assertTrue(isinstance(self.new_article, Articles)
