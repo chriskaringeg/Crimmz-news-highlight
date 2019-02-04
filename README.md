@@ -40,7 +40,8 @@ To run the tests for the class files:
 
   $ python3.6 manage.py tests 
 
-  ## license
+  ## license 
+  MIT LIcense
 
    Copyright <2019> <KARINGE KINYUA>
 
