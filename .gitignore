@@ -8,4 +8,4 @@ instance/
 .idea
 get-pip.py
 start.sh
-instance
+instance/
