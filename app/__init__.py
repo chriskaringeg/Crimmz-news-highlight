@@ -1,7 +1,7 @@
 from flask import Flask
-from flask import Blueprint
-main = Blueprint('main', __name__)
-from . import views, errors
+# from flask import Blueprint
+# main = Blueprint('main', __name__)
+# from . import views, errors
 from config import config_options
 
 def create_app(config_name):
