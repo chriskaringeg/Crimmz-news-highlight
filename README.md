@@ -1,3 +1,4 @@
+
 ## CRIMMZ-NEWS-APP
 
 Built By KARINGE KINYUA
@@ -18,6 +19,14 @@ As a user I would like to:
 - See the image, description and time the news article was -created
 - Click on an article and read it fully from the news source
 
+## BDD
+ 
+| Behaviour  	 | input   	        | output               	|
+|:Given that    log in to the app   find all kinds of news
+
+ one cant find
+ for news  -:  |---              	|---                   	|
+|   	         |   	              |   	                  |
 ## Installation
 
 Prerequisites
@@ -41,6 +50,7 @@ To run the tests for the class files:
   $ python3.6 manage.py tests 
 
   ## license 
+
   MIT LIcense
 
    Copyright (c) <2019> <KARINGE KINYUA>
