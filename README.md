@@ -21,12 +21,12 @@ As a user I would like to:
 
 ## BDD
  
-| Behaviour  	 | input   	        | output               	|
-|:Given that    log in to the app   find all kinds of news
-
- one cant find
- for news  -:  |---              	|---                   	|
-|   	         |   	              |   	                  |
+Given that one has to
+check on news	Access the link
+https://crimznews.herokuapp.com/
+find out all types of news
+click on the specific type of news	Find more information about 
+that field
 ## Installation
 
 Prerequisites
